@@ -60,5 +60,13 @@ An AI-driven assistant that intelligently organizes and retrieves past data usin
 | Business Lead   | Monetization, partnerships, marketing strategy |
 
 ---
+# Setup
 
-**Let’s refine and expand on these points as we go!** 🚀
+- Create a virtual Environment:
+- `python -m venv venv`
+- Activate the virutal env
+- `.\venv\Scripts\activate`
+- 
+- `cd BackEnd`
+- `pip install django djangorestframework`
+
